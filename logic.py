@@ -1,6 +1,5 @@
 import random
 
-
 def get_level_choice():
     while True:
         print(
